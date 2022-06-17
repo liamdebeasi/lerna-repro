@@ -1,24 +1,6 @@
 {
   "name": "@ionic/angular-server",
   "version": "6.1.11-alpha.dev",
-  "description": "Angular SSR Module for Ionic",
-  "keywords": [
-    "ionic",
-    "angular",
-    "universal",
-    "ssr",
-    "prerender",
-    "serverside"
-  ],
-  "author": "Ionic Team",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ionic-team/ionic.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ionic-team/ionic/issues"
-  },
   "publishConfig": {
     "directory": "dist"
   },
@@ -35,5 +17,5 @@
     "prettier.fix": "prettier \"**/*.ts\" --write"
   },
   "prettier": "@ionic/prettier-config",
-  "gitHead": "4074d1939c1b11b81609de3b2345332870e8a16b"
+  "gitHead": "fffcbda07a7017eaf78364afc1279b60efd92d91"
 }
