@@ -1,0 +1,11 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "publishConfig": {
+    "directory": "dist"
+  },
+  "scripts": {
+    "prepublishOnly": "rm -rf ./dist"
+  },
+  "gitHead": "846a807e63f85a38ead26d078efa393c0d0eac22"
+}
